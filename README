@@ -1,3 +1,8 @@
 This program is used for capturing video from laptop's camera, detecting a red object (it can easily be configured for other colors) and communicating with a board(1) that controls 2 motors. Those motors drive the laptop right to the specified object. 
 
+Used libraries:
+*OpenCV
+*cvblob
+
+
 (1)SUBOARD - http://fens.sabanciuniv.edu/suboard/
